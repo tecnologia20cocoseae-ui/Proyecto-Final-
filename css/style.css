@@ -48,7 +48,7 @@ font-weight:bold;
 /* BANNER */
 .banner{
 background:linear-gradient(rgba(27,94,32,0.7),rgba(27,94,32,0.7)),
-url("../img/palma2.jpg");
+url("../img/Palma2.jpg");
 background-size:cover;
 background-position:center;
 color:white;
@@ -89,4 +89,5 @@ color:white;
 text-align:center;
 padding:20px;
 margin-top:40px;
+
 }
